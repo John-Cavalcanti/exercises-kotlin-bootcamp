@@ -1,0 +1,5 @@
+exercicios : 
+1 - calculadora com 4 operacoes basicas, soma , sub, mult, div
+2 - a partir da hora do dia dizer bom dia, boa tarde, boa noite
+
+ideal criar varias classes diferentes.
